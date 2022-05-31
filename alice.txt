@@ -1,2 +1,2 @@
-"Hi alice,
-How's your learning going?"
+alice,
+How's your learning going
